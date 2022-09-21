@@ -7,8 +7,8 @@ https://www.inflearn.com/course/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%E
 
 
 <div>
-<img src="https://user-images.githubusercontent.com/66731780/191416924-d3615ecc-54ec-458e-87fd-a6857a601079.png" width="170" height="340"/>
-<img src="https://user-images.githubusercontent.com/66731780/191416928-e0c7e2b1-0664-4e66-b52b-7c368b7ce483.png" width="170" height="340"/>
-<img src="https://user-images.githubusercontent.com/66731780/191416932-fbad2af8-2b85-48aa-bdcb-c792c36920f2.png" width="170" height="340"/>
-<img src="https://user-images.githubusercontent.com/66731780/191416934-03d89f20-02e6-46ff-adf5-a8ef26f34abd.png" width="170" height="340"/>
+<img src="https://user-images.githubusercontent.com/66731780/191416924-d3615ecc-54ec-458e-87fd-a6857a601079.png" width="180" height="360"/>
+<img src="https://user-images.githubusercontent.com/66731780/191416928-e0c7e2b1-0664-4e66-b52b-7c368b7ce483.png" width="180" height="360"/>
+<img src="https://user-images.githubusercontent.com/66731780/191416932-fbad2af8-2b85-48aa-bdcb-c792c36920f2.png" width="180" height="360"/>
+<img src="https://user-images.githubusercontent.com/66731780/191416934-03d89f20-02e6-46ff-adf5-a8ef26f34abd.png" width="180" height="360"/>
 </div>
